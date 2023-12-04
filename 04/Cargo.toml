@@ -1,0 +1,11 @@
+[package]
+name = "day-04"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.4.3"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
